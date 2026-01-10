@@ -1,7 +1,8 @@
 {
-  "name": "PSS Portal",
-  "short_name": "PSS Portal",
-  "start_url": "/",
+  "name": "Portal WJ",
+  "short_name": "Portal WJ",
+  "start_url": "/Icon-App/",
+  "scope": "/Icon-App/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
